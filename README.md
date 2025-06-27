@@ -87,17 +87,5 @@ Easily customizable with new datasets or models
 🙋‍♀️ Submitted By
 
 Chennampalli Aswini
-Short-Term Internship under SmartInternz x APSCHE
 
-📜 License
 
-This project is licensed under the MIT License.
-
----
-
-Would you like:
-- A downloadable `.md` file?
-- Screenshot placeholders added?
-- README in simple Telugu/English mix?
-
-Let me know and I’ll customize it for you
